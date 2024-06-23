@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: green;
+}
+
+button {
+    background-color: black;
+    color: white;
+}
+
+p {
+    background-color: blue;
+    opacity: 50%;
+}
+
+div {
+    background-color: orange;
+    opacity: 50%;
+}

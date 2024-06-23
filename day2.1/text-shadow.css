@@ -1,0 +1,6 @@
+h1 {
+    font-weight: 100;
+    text-shadow: magenta 5px 5px 2px;
+    /* color   offset-x   offset-y   blur */
+    /* we can many colors as we want just by adding more values */
+}
